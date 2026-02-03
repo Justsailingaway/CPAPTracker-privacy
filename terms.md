@@ -1,6 +1,6 @@
 # Terms of Service for CPAP Tracker
 
-**Last updated: January 28, 2026**
+**Last updated: February 3, 2026**
 
 ## Acceptance of Terms
 
@@ -8,11 +8,13 @@ By downloading, installing, or using CPAP Tracker ("the App"), you agree to thes
 
 ## Description of Service
 
-CPAP Tracker is a personal health management tool that helps you track CPAP equipment replacement schedules, cleaning tasks, and optionally view sleep data from Apple Health. The App is not a medical device and does not provide medical advice.
+CPAP Tracker is a personal health management tool that helps you track CPAP equipment replacement schedules, cleaning tasks, AHI values, and optionally view sleep data from Apple Health. The App is not a medical device and does not provide medical advice.
 
 ## Medical Disclaimer
 
 The App is intended for informational and organizational purposes only. It is **not** a substitute for professional medical advice, diagnosis, or treatment. Always consult your healthcare provider regarding your CPAP therapy and equipment needs.
+
+The AHI tracking feature is for personal record-keeping only. It does not analyze, interpret, or provide recommendations based on your AHI values. Consult your sleep specialist for guidance on your therapy.
 
 ## User Responsibilities
 
@@ -23,9 +25,18 @@ The App is intended for informational and organizational purposes only. It is **
 ## In-App Purchases
 
 - CPAP Tracker Pro is available as a one-time, non-consumable purchase
-- Pro features include unlimited consumable tracking, ad-free experience, and replacement history
+- Pro features include unlimited consumable tracking, iCloud sync, PDF export, and ad-free experience
 - Purchases are processed through Apple's App Store and are subject to Apple's terms
 - You may restore purchases on any device signed into the same Apple ID
+
+## iCloud Sync
+
+Pro users may optionally enable iCloud sync to synchronize data across devices. When enabled:
+- Your data is stored in your private iCloud account using Apple's CloudKit service
+- You are responsible for managing your iCloud storage
+- We do not have access to your synced data
+- Data synchronization depends on your iCloud account status and network connectivity
+- We are not responsible for data loss due to iCloud service issues
 
 ## Advertisements
 
@@ -59,4 +70,4 @@ If you have questions about these Terms, please contact us at:
 
 ---
 
-*These terms of service are effective as of January 28, 2026.*
+*These terms of service are effective as of February 3, 2026.*
