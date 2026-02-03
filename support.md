@@ -9,7 +9,7 @@ We're here to help you get the most out of CPAP Tracker. Below you'll find answe
 ### General
 
 **What is CPAP Tracker?**
-CPAP Tracker helps you manage your CPAP equipment by tracking replacement schedules, cleaning tasks, logging AHI values, and optionally viewing sleep data from Apple Health.
+CPAP Tracker helps you manage your CPAP equipment by tracking replacement schedules, cleaning tasks, and optionally viewing sleep data from Apple Health. You can also enable AHI tracking to log your daily values.
 
 **Is my data stored online?**
 By default, all data is stored locally on your device. Pro users can optionally enable iCloud sync to keep data synchronized across multiple devices. When enabled, your data is stored in your private iCloud account—we never have access to it.
@@ -29,10 +29,13 @@ The free version supports up to 5 consumables. Upgrade to Pro for unlimited trac
 ### AHI Tracking
 
 **What is AHI?**
-AHI (Apnea-Hypopnea Index) is a measurement from your CPAP machine that indicates the number of breathing interruptions per hour of sleep. Lower is better—under 5 is considered normal.
+AHI (Apnea-Hypopnea Index) is a measurement from your CPAP machine that indicates the number of breathing interruptions per hour of sleep. Categories are based on clinical guidelines from the American Academy of Sleep Medicine (AASM).
+
+**Is AHI tracking required?**
+No. AHI tracking is entirely optional. You can disable it in Settings > Sleep by turning off "AHI Tracking." When disabled, all AHI-related features are hidden throughout the app.
 
 **How do I log my AHI?**
-Go to the Sleep tab and tap "Log AHI" to enter your value from your CPAP machine's display or app. You can include usage hours and notes.
+With AHI tracking enabled, go to the Sleep tab and tap "Log AHI" to enter your value from your CPAP machine's display or app. You can include usage hours and notes.
 
 **Where can I find my AHI?**
 Most CPAP machines display AHI on the screen when you wake up. You can also find it in your machine's companion app (like myAir for ResMed or DreamMapper for Philips).
@@ -43,7 +46,7 @@ Most CPAP machines display AHI on the screen when you wake up. You can also find
 Go to the Sleep tab. The app reads sleep data from Apple Health. You'll need to grant HealthKit permission when prompted.
 
 **What if I don't have sleep data?**
-You can preview the feature using example data. Go to Settings and look for the "Example Sleep Data" section.
+You can preview the feature using example data. Go to Settings > Sleep and enable "Example Data."
 
 **Why isn't my sleep data showing?**
 Make sure HealthKit access is enabled: go to iOS Settings > Health > Data Access & Devices > CPAP Tracker and enable sleep data access.
@@ -54,11 +57,12 @@ Make sure HealthKit access is enabled: go to iOS Settings > Health > Data Access
 You earn experience points (XP) by:
 - Replacing consumables on time
 - Completing cleaning tasks
-- Logging your AHI regularly
+- Meeting your sleep goal
+- Logging your AHI regularly (if AHI tracking is enabled)
 - Maintaining streaks
 
 **What are streaks?**
-Streaks track your consistency. You have separate streaks for equipment replacement and AHI logging. Keep them going to earn bonus XP and unlock achievements!
+Streaks track your consistency. You build streaks by meeting your sleep goal. If AHI tracking is enabled, you also have a separate AHI logging streak. Keep them going to earn bonus XP!
 
 **What happens if I miss a day?**
 Your current streak resets, but your longest streak record is preserved. You can always start building a new streak.
@@ -74,7 +78,7 @@ The Cleaning tab shows daily, weekly, and monthly tasks based on the consumables
 Go to Settings and toggle on "iCloud Sync." Your data will sync across all devices signed into the same iCloud account.
 
 **What data syncs?**
-Consumables, replacement history, cleaning records, AHI entries, XP, streaks, and achievements all sync. App settings and HealthKit data do not sync.
+Consumables, replacement history, cleaning records, XP, streaks, and achievements all sync. AHI entries sync if AHI tracking is enabled. App settings and HealthKit data do not sync.
 
 **What if I have data on multiple devices?**
 When you enable sync, the app intelligently merges your data. It keeps your highest XP total and longest streaks from any device.
@@ -97,10 +101,16 @@ No. Pro is a one-time purchase with lifetime access.
 **How do I restore my purchase?**
 Go to Settings > tap "Upgrade to Pro" > tap "Restore Purchases" at the bottom of the paywall.
 
-### Notifications
+### Notifications & Reminders
 
-**How do I set up reminders?**
-The app will ask for notification permission on first launch. You can manage notifications in iOS Settings > Notifications > CPAP Tracker.
+**How do I set up equipment reminders?**
+Go to Settings > Equipment Reminders to enable notifications and set how many days before replacement you want to be reminded.
+
+**Can I get a daily reminder to log my AHI?**
+Yes. With AHI tracking enabled, go to Settings > Sleep and turn on "Daily Reminder." You can set your preferred reminder time.
+
+**How do I manage notification permissions?**
+The app will ask for notification permission on first launch. You can also manage permissions in iOS Settings > Notifications > CPAP Tracker.
 
 ### Data Management
 
