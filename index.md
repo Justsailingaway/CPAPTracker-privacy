@@ -132,13 +132,41 @@ We take data security seriously:
 - **iCloud data** is retained in your iCloud account until you delete it or disable sync
 - **Advertising data** is retained according to Google's data retention policies
 
+## Your Privacy Rights
+
+### For All Users
+- **Access:** You can view all your data within the App at any time
+- **Deletion:** Use "Reset All Data" in Settings to permanently delete all local data. For iCloud data, manage it through your device's iCloud settings
+- **Portability:** Pro users can export their data as a PDF report from Settings
+- **Opt-Out of Tracking:** Deny ad tracking permission or disable it in iOS Settings > Privacy & Security > Tracking
+
+### For European Users (GDPR)
+If you are in the European Economic Area (EEA), you have additional rights under the General Data Protection Regulation:
+- **Right to Access:** Request a copy of your personal data
+- **Right to Rectification:** Correct inaccurate data via the App's editing features
+- **Right to Erasure:** Request deletion of your data using the "Reset All Data" option or by contacting us
+- **Right to Restrict Processing:** Disable iCloud sync, HealthKit access, or ad tracking at any time
+- **Right to Object:** Opt out of personalized advertising by denying tracking permission
+- **Right to Data Portability:** Export your data via the PDF export feature (Pro)
+
+To exercise any of these rights, use the in-app controls described above or contact us at the email below. We will respond within 30 days.
+
+**Legal Basis for Processing:** We process your data based on your consent (HealthKit access, ad tracking) and legitimate interest (providing the App's core functionality). You may withdraw consent at any time through iOS Settings.
+
+### For California Users (CCPA/CPRA)
+If you are a California resident, you have the right to:
+- **Know** what personal information is collected and how it is used
+- **Delete** your personal information
+- **Opt-Out of Sale:** We do not sell your personal information. Google AdMob may use device identifiers for advertising purposes, which you can opt out of by denying tracking permission
+- **Non-Discrimination:** We will not discriminate against you for exercising your privacy rights
+
 ## Children's Privacy
 
-CPAP Tracker is not intended for use by children under 13 years of age. We do not knowingly collect personal information from children under 13. If you are a parent or guardian and believe your child has provided us with personal information, please contact us so we can delete it.
+CPAP Tracker is not intended for use by children under 13 years of age (or under 16 in the European Economic Area). We do not knowingly collect personal information from children. If you are a parent or guardian and believe your child has provided us with personal information, please contact us so we can delete it.
 
 ## International Users
 
-Your data is stored locally on your device and, if you enable iCloud sync, in Apple's data centers according to Apple's data residency policies. Google AdMob may transfer advertising data internationally according to Google's policies.
+Your data is stored locally on your device and, if you enable iCloud sync, in Apple's data centers according to Apple's data residency policies. Google AdMob may transfer advertising data internationally according to Google's policies. For transfers outside the EEA, Google relies on Standard Contractual Clauses approved by the European Commission.
 
 ## Changes to This Policy
 

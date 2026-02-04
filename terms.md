@@ -14,7 +14,11 @@ CPAP Tracker is a personal health management tool that helps you track CPAP equi
 
 The App is intended for informational and organizational purposes only. It is **not** a substitute for professional medical advice, diagnosis, or treatment. Always consult your healthcare provider regarding your CPAP therapy and equipment needs.
 
-The AHI tracking feature is for personal record-keeping only. It does not analyze, interpret, or provide recommendations based on your AHI values. Consult your sleep specialist for guidance on your therapy.
+The AHI tracking feature is for personal record-keeping only. It does not analyze, interpret, or provide recommendations based on your AHI values. AHI categories displayed in the App (Optimal, Normal, Mild, Moderate, Severe) are based on general clinical classifications from the American Academy of Sleep Medicine and are provided for informational context only — they do not constitute a diagnosis or assessment of your condition. Consult your sleep specialist for guidance on your therapy.
+
+## Gamification Disclaimer
+
+The App uses a gamification system (experience points, streaks, achievements, and category labels) solely to encourage consistent tracking habits and equipment maintenance. The XP rewards, achievement badges, and encouragement messages associated with AHI categories are **motivational tools only** and do not represent medical assessments, treatment goals, or clinical outcomes. No aspect of the gamification system should be interpreted as medical advice or as a recommendation to pursue specific AHI values. Your treatment goals should be set exclusively by your healthcare provider.
 
 ## User Responsibilities
 
