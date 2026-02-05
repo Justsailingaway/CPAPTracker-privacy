@@ -1,6 +1,6 @@
 # Privacy Policy for CPAP Tracker
 
-**Last Updated:** February 3, 2026
+**Last Updated:** February 5, 2026
 
 ## Overview
 
@@ -29,6 +29,7 @@ This data is stored locally on your device by default and is never transmitted t
 - You may manually log your Apnea-Hypopnea Index (AHI) values from your CPAP machine
 - AHI entries include the date, AHI value, usage hours, and optional notes
 - This data is stored locally on your device and optionally synced via iCloud (Pro feature)
+- When iCloud sync is enabled, your health data is linked to your Apple ID but remains private to you — we cannot access it
 
 ### Gamification Data
 To encourage consistent equipment maintenance, the App tracks:
