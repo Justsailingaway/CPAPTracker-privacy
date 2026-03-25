@@ -45,6 +45,9 @@ Most CPAP machines display AHI on the screen when you wake up. You can also find
 **How do I see my sleep data?**
 Go to the Sleep tab. The app reads sleep data from Apple Health. You'll need to grant HealthKit permission when prompted.
 
+**Why do sleep dates appear one day earlier than Apple Health?**
+The app tracks sleep sessions on the day they start, from 12:00 PM through 11:59 AM the next morning. This is the same way that most CPAP and BiPAP manufacturers capture sleep data. Apple Health records a sleep session on the wake-up day. For this reason, app data will appear one day earlier than Apple Health. The sleep duration and stage data will match.
+
 **What if I don't have sleep data?**
 You can preview the feature using example data. Go to Settings > Sleep and enable "Example Data."
 
@@ -62,7 +65,7 @@ You earn experience points (XP) by:
 - Maintaining streaks
 
 **What are streaks?**
-Streaks track your consistency. You build streaks by meeting your sleep goal. If AHI tracking is enabled, you also have a separate AHI logging streak. Keep them going to earn bonus XP!
+There are two types of streaks. Your Sleep Goal Streak tracks consecutive days you meet your sleep goal. If AHI tracking is enabled, you also have a separate AHI Logging Streak for consecutive days you log your AHI. Keep them going to earn bonus XP!
 
 **What happens if I miss a day?**
 Your current streak resets, but your longest streak record is preserved. You can always start building a new streak.

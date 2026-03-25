@@ -1,6 +1,6 @@
 # Privacy Policy for CPAP Tracker
 
-**Last Updated:** February 5, 2026
+**Last Updated:** March 24, 2026
 
 ## Overview
 
@@ -183,4 +183,4 @@ If you have any questions about this privacy policy or our data practices, pleas
 
 ---
 
-*This privacy policy is effective as of February 3, 2026.*
+*This privacy policy is effective as of March 24, 2026.*

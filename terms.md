@@ -1,6 +1,6 @@
 # Terms of Service for CPAP Tracker
 
-**Last updated: February 3, 2026**
+**Last updated: March 24, 2026**
 
 ## Acceptance of Terms
 
@@ -74,4 +74,4 @@ If you have questions about these Terms, please contact us at:
 
 ---
 
-*These terms of service are effective as of February 3, 2026.*
+*These terms of service are effective as of March 24, 2026.*
